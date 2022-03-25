@@ -1,0 +1,67 @@
+This lesson covers the design phase of the system development life cycle (SDLC). Review the definition and basics of the SDLC and dive deeper into the design phase, including its key pieces, sample deliverables, and how to determine whether to move into the next phase in the life cycle.
+System Development Life Cycle
+
+Meet Marge. Marge has just enrolled in her first college course, where she will learn about technology. Her very first assignment is to do a report about the system development life cycle (SDLC). Because SDLC has several different phases, each student is designated a separate phase to fully explain its importance.
+
+Marge is assigned the design phase, which is the third phase in a set of six. Marge is not familiar with SDLC or the design phase, so she decides to do some research. This is what Marge learns about the system development life cycle (SDLC), which is the creation of a new system.
+Basics of SDLC
+
+Let's start with what Marge learns about SDLC in general. A system is a combination of components that, when combined, create a finished product. The system development life cycle, therefore, is the term used to describe a six-phase process, which are the components, that are combined to create a new information technology system, which is the finished product.
+
+There are six phases in SDLC:
+
+    Planning
+    Analysis
+    Design
+    Coding
+    Testing
+    Implementing 
+
+Marge has been assigned the design phase, so the remainder of this lesson will be on step three.
+Design Phase
+
+The design phase can be referred to as the transformation phase, because this is when an idea is actually transformed into a real working system. Phase two comes to an end once a customer has agreed and signed off on the system. Once this happens, the building begins. Data is formed into charts, and the design team uses those charts to decide the best way for the data to move and be stored. All of the components and security pieces of the system are also determined during the design phase.
+Key Pieces
+
+Marge realizes that there is more to the design phase then just drawing up plans for the new system. Several deliverables need to be generated in order to convert the concept to a system. Marge knows the requirements need to be converted to an architecture: the components, interfaces, and behaviors of the system. For this, she needs an architecture document.
+
+Once this plan is complete, she'll need an implementation plan, which outlines how the system will be set up and maintained. Some project teams also develop a maintenance manual at this point, which will be used to guide installation and maintenance of the system and its components.
+
+Another key component in the design phase is a document that outlines the critical priorities for the team. Each critical priority becomes a task that needs to be done in order for the system to succeed.
+
+A test plan is another document that can be developed in the design phase. It is used to guide testing throughout the implementation phase. Sometimes this document is developed in the testing phase, but it is never a bad idea to be prepared and develop a plan during design.
+Sample Design Deliverables
+
+Marge knows that systems come in all shapes and sizes. While the SDLC guides system development, not every last step can, or should, be performed in ALL projects. There are always different flavors to the process. Some projects also develop their security plans, disaster recovery plans, and other components in this phase. Marge makes a list of elements that might also be started during the design phase:
+
+    Security Plan
+    Data Retention Plan
+    Disaster Recovery Plan
+    Unit and Integration Test Plans
+    Data Conversion and Migration Plans
+    Operations and/or Maintenance Manuals
+    User Manuals/Guides
+    Training Plans
+    Requirements Matrix 
+
+On To the Next Phase?
+
+And, finally, Marge learns that before the system can move onto the fourth phase, the customer, again, needs to sign off. This allows assurance that the design team met the requirements and is on track to fulfilling the customer's needs.
+
+In many projects there can be several customers, from a project manager all the way up to the owner or CEO of the company. Not all projects require CEO-level sign-off during this phase, but they will require a key stakeholder's final OK before moving on to the next phase.
+Lesson Summary
+
+System development life cycle is the term used to derive at the creation of a new system by combining several components.
+
+The SDLC has six phases:
+
+    Planning
+    Analysis
+    Design
+    Coding
+    Testing
+    Implementing 
+
+The third phase is known as the design phase, and it begins when a customer signs off on allowing the design team to start building and creating.
+
+The main focus of the design phase it to determine how data will flow and be stored. It is also the phase when the architecture document, critical priority analysis, implementation plan, maintenance manual and user manual are created, which aid in the installation and operation of the new system. Other components may also be developed/started during this phase. The design phase comes to an end just like it began, with the customer signing off.
